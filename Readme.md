@@ -1,3 +1,15 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [AgendaViewControl.cs](./CS/AgendViewComponent/AgendaViewControl.cs) (VB: [AgendaViewControl.Designer.vb](./VB/AgendViewComponent/AgendaViewControl.Designer.vb))
+* [AgendaViewControl.Designer.cs](./CS/AgendViewComponent/AgendaViewControl.Designer.cs) (VB: [AgendaViewControl.Designer.vb](./VB/AgendViewComponent/AgendaViewControl.Designer.vb))
+* [AgendaViewDataGenerator.cs](./CS/AgendViewComponent/AgendaViewDataGenerator.cs) (VB: [AgendaViewDataGenerator.vb](./VB/AgendViewComponent/AgendaViewDataGenerator.vb))
+* [AgendaViewHelper.cs](./CS/AgendViewComponent/AgendaViewHelper.cs) (VB: [AgendaViewHelper.vb](./VB/AgendViewComponent/AgendaViewHelper.vb))
+* [AgendaViewMenuBuilder.cs](./CS/AgendViewComponent/AgendaViewMenuBuilder.cs) (VB: [AgendaViewMenuBuilder.vb](./VB/AgendViewComponent/AgendaViewMenuBuilder.vb))
+* [GoToDateDialog.cs](./CS/AgendViewComponent/GoToDateDialog.cs) (VB: [GoToDateDialog.vb](./VB/AgendViewComponent/GoToDateDialog.vb))
+* [CustomObjects.cs](./CS/WindowsFormsApplication1/CustomObjects.cs) (VB: [CustomObjects.vb](./VB/WindowsFormsApplication1/CustomObjects.vb))
+* [Form1.cs](./CS/WindowsFormsApplication1/Form1.cs) (VB: [Form1.vb](./VB/WindowsFormsApplication1/Form1.vb))
+<!-- default file list end -->
 # How to display appointments in Agenda View by using the GridControl component
 
 
